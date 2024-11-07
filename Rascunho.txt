@@ -1,0 +1,12 @@
+Criar
+npx create-react-app dio2
+npm install react-router-dom
+npm install react-icons
+npm install react-hook-form
+npm install @hookform/resolvers yup
+npm install axios
+npm install json-server  // Api para teste
+
+Adicionado
+yarn add styled-components
+//yarn add react-router-dom  // se estiver usando yarn
